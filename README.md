@@ -25,7 +25,6 @@ First create a new Sticker Pack Application in Xcode 8. Select *File* > *New* >
 Name your project and choose a location to save it.
 
 ![Create new project, step 2](/Screenshots/new-project-2.png?raw=true "Create new project, step 2")
-![Create new project, step 3](/Screenshots/new-project-3.png?raw=true "Create new project, step 3")
 
 ## Adding an animated PNG to your Sticker Pack
 
