@@ -11,7 +11,7 @@ Clone this project to get started, watch Apple's
 or follow the steps below.
 
 Keeping **animated stickers below the maximum size of 500KB** can be
-challenging. We'll show you how you can use TinyPNG to accomplish this! **Read on!**
+challenging. We'll show you how you can use [TinyPNG](https://tinypng.com) to accomplish this! **Read on!**
 
 ![iMessage panda sticker](/Screenshots/sticker-example.png?raw=true "iMessage panda sticker")
 
@@ -43,7 +43,7 @@ for stickers. Xcode will warn you when you attempt to add a file that is larger.
 ![Error when over 500KB](/Screenshots/project-too-large.png?raw=true "Error when over 500KB")
 
 Making sure your stickers are below 500KB can be especially challenging for
-animated stickers! Luckily you can use TinyPNG to compress your stickers.
+animated stickers! Luckily you can use [TinyPNG](https://tinypng.com) to compress your stickers.
 
 ## Compressing animated PNGs with TinyPNG
 
@@ -56,7 +56,7 @@ best possible stickers!
 
 ## Compare before & after
 
-TinyPNG uses advanced techniques to compress images. The differences is barely
+[TinyPNG](https://tinypng.com) uses advanced techniques to compress images. The differences is barely
 noticeable. Yet this image of a waving panda is compressed from 1.5MB to 492 KB.
 You can see there is barely a visible difference.
 
@@ -69,6 +69,6 @@ Original animated PNG – 1.5MB | Optimised animated PNG – 492KB
 
 ## How to reduce file size further?
 
-If the TinyPNG service is not able to compress your animated PNG below 500KB,
+If the [TinyPNG](https://tinypng.com) service is not able to compress your animated PNG below 500KB,
 you might have to take other steps to reduce the file size. You may have to
 change your image so that the dimensions are smaller, or use fewer frames.
