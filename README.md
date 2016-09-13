@@ -10,12 +10,15 @@ Clone this project to get started, watch Apple's
 [video tutorial](https://developer.apple.com/videos/play/tutorials/building-sticker-packs/),
 or follow the steps below.
 
+Keeping **animated stickers below the maximum size of 500KB** can be
+challenging. We'll show you how you can use TinyPNG to accomplish this! **Read on!**
+
 ![iMessage panda sticker](/Screenshots/sticker-example.png?raw=true "iMessage panda sticker")
 
 ## Creating an iMessage Sticker Pack Application
 
-Select *File* > *New* > *Project* from the menu, then choose *Sticker Pack
-Application*.
+First create a new Sticker Pack Application in Xcode 8. Select *File* > *New* >
+*Project* from the menu, then choose *Sticker Pack Application*.
 
 ![Create new project, step 1](/Screenshots/new-project-1.png?raw=true "Create new project, step 1")
 
