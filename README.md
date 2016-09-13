@@ -60,13 +60,9 @@ You can see there is barely a visible difference.
 **Note that animated PNGs are only displayed in Firefox or Safari. In other
 browsers you only see the first frame.**
 
-### Original animated PNG – 1.5MB
-
-![Original](/Source/panda-original.png?raw=true "Original")
-
-### Optimised animated PNG – 492KB
-
-![Compressed](/StickerPackExtension/Stickers.xcstickers/Sticker Pack.stickerpack/panda.sticker/panda.png?raw=true "Compressed")
+Original animated PNG – 1.5MB | Optimised animated PNG – 492KB
+----------------------------- | ------------------------------
+![Original](/Source/panda-original.png?raw=true "Original") | ![Compressed](/StickerPackExtension/Stickers.xcstickers/Sticker Pack.stickerpack/panda.sticker/panda.png?raw=true "Compressed")
 
 ## How to reduce file size further?
 
