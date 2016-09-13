@@ -70,4 +70,4 @@ browsers you only see the first frame.**
 
 If the TinyPNG service is not able to compress your animated PNG below 500KB,
 you might have to take other steps to reduce the file size. You may have to
-changey your image so that the dimensions are smaller, or use fewer frames.
+change your image so that the dimensions are smaller, or use fewer frames.
