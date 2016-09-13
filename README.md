@@ -14,7 +14,7 @@ or follow the steps below.
 Keeping **animated stickers below the maximum size of 500KB** can be
 challenging. We'll show you how you can use [TinyPNG](https://tinypng.com) to accomplish this! **Read on!**
 
-![iMessage panda sticker](/Screenshots/sticker-example.png?raw=true "iMessage panda sticker")
+![iMessage panda sticker](/Screenshots/sticker-example-animated.gif?raw=true "iMessage panda sticker")
 
 ## Creating an iMessage Sticker Pack Application
 
