@@ -5,7 +5,8 @@ a small image or animation that can be sent or placed on messages, photos or on
 other stickers.
 
 Creating a sticker pack with your own animated stickers is simple! You need an
-**animated PNG** and **Xcode 8**.
+**[animated PNG](https://en.wikipedia.org/wiki/APNG)** and
+**[Xcode 8](https://developer.apple.com/xcode/)**.
 Clone this project to get started, watch Apple's
 [video tutorial](https://developer.apple.com/videos/play/tutorials/building-sticker-packs/),
 or follow the steps below.
