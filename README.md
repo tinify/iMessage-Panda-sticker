@@ -10,6 +10,8 @@ Clone this project to get started, watch Apple's
 [video tutorial](https://developer.apple.com/videos/play/tutorials/building-sticker-packs/),
 or follow the steps below.
 
+![iMessage panda sticker](/Screenshots/sticker.png?raw=true "iMessage panda sticker")
+
 ## Creating an iMessage Sticker Pack Application
 
 Select *File* > *New* > *Project* from the menu, then choose *Sticker Pack
