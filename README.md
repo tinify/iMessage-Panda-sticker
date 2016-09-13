@@ -1,4 +1,4 @@
-# Making an animated sticker for iMessage
+# Making animated stickers for iMessage that remain below 500KB
 
 With the release of iOS 10, Apple introduced stickers in iMessage. A sticker is
 a small image or animation that can be sent or placed on messages, photos or on
