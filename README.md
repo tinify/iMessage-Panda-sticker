@@ -1,10 +1,11 @@
-# Making an animated sticker
+# Making an animated sticker for iMessage
 
 With the release of iOS 10, Apple introduced stickers in iMessage. A sticker is
 a small image or animation that can be sent or placed on messages, photos or on
 other stickers.
 
-Creating a sticker pack with your own stickers is simple! You need Xcode 8.
+Creating a sticker pack with your own animated stickers is simple! You need an
+**animated PNG** and **Xcode 8**.
 Clone this project to get started, watch Apple's
 [video tutorial](https://developer.apple.com/videos/play/tutorials/building-sticker-packs/),
 or follow the steps below.
@@ -31,10 +32,13 @@ Pack*.
 
 ![Drag and drop sticker](/Screenshots/project-panda.png?raw=true "Drag and drop sticker")
 
-When creating stickers, you can run into the file size limit of 500KB per
-sticker. This can be especially challenging when creating animated stickers!
+For optimal performance, Apple has added a hard **file size limit of 500KB**
+for stickers. Xcode will warn you when you attempt to add a file that is larger.
 
 ![Error when over 500KB](/Screenshots/project-too-large.png?raw=true "Error when over 500KB")
+
+Making sure your stickers are below 500KB can be especially challenging for
+animated stickers! Luckily you can use TinyPNG to compress your stickers.
 
 ## Compressing animated PNGs with TinyPNG
 
