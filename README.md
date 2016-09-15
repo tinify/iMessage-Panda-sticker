@@ -4,6 +4,8 @@ With the release of iOS 10, Apple introduced stickers in iMessage. A sticker is
 a small image or animation that can be sent or placed on messages, photos or on
 other stickers.
 
+![iMessage panda sticker](/Screenshots/sticker-example-animated.gif?raw=true "iMessage panda sticker")
+
 Creating a sticker pack with your own animated stickers is simple! You need an
 **[animated PNG](https://en.wikipedia.org/wiki/APNG)** and
 **[Xcode 8](https://developer.apple.com/xcode/)**.
@@ -13,8 +15,6 @@ or follow the steps below.
 
 Keeping **animated stickers below the maximum size of 500KB** can be
 challenging. We'll show you how you can use [TinyPNG](https://tinypng.com) to accomplish this! **Read on!**
-
-![iMessage panda sticker](/Screenshots/sticker-example-animated.gif?raw=true "iMessage panda sticker")
 
 ## Creating an iMessage Sticker Pack Application
 
