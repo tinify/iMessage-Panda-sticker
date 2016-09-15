@@ -29,7 +29,7 @@ Name your project and choose a location to save it.
 
 ## Adding an animated PNG to your Sticker Pack
 
-Your project is empty after creation. If you already have an animated PNG, you
+Your project is empty after creation. If you already have an animated PNG (APNG), you
 can drag and drop it to the sticker pack under *Stickers.xcstickers* > *Sticker
 Pack*.
 
@@ -48,7 +48,7 @@ animated stickers! Luckily you can use [TinyPNG](https://tinypng.com) to compres
 ## Compressing animated PNGs with TinyPNG
 
 You can compress your images in order to reduce the file size. With the
-[TinyPNG website you can compress (animated) PNGs for free](https://tinypng.com).
+TinyPNG website you can [compress APNG for free](https://tinypng.com).
 This allows you squeeze every last byte out of your images and to create the
 best possible stickers!
 
@@ -63,7 +63,7 @@ You can see there is barely a visible difference.
 **Note that animated PNGs are only displayed in Firefox or Safari. In other
 browsers you only see the first frame.**
 
-Original animated PNG – 1.5MB | Optimised animated PNG – 492KB
+Original APNG – 1.5MB | Optimised APNG – 492KB
 ----------------------------- | ------------------------------
 ![Original](/Source/panda-original.png?raw=true "Original") | ![Compressed](/StickerPackExtension/Stickers.xcstickers/Sticker Pack.stickerpack/panda.sticker/panda.png?raw=true "Compressed")
 
