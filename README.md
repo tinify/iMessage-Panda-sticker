@@ -1,8 +1,8 @@
-# Keeping animated stickers under 500KB for iMessage
+# Keeping animated PNG iMessage stickers under 500KB
 
-With the release of iOS 10, Apple introduced stickers in iMessage. A sticker is
-a small image or animation that can be sent or placed on messages, photos or on
-other stickers.
+With the release of iOS 10, Apple introduced stickers in iMessage. A sticker
+is a small image or animation that can be sent or placed on messages, photos
+or on other stickers.
 
 ![iMessage panda sticker](/Screenshots/sticker-example-animated.gif?raw=true "iMessage panda sticker")
 
@@ -14,7 +14,8 @@ Clone this project to get started, watch Apple's
 or follow the steps below.
 
 Keeping **animated stickers below the maximum size of 500KB** can be
-challenging. We'll show you how you can use [TinyPNG](https://tinypng.com) to accomplish this! **Read on!**
+challenging. We'll show you how you can use [TinyPNG](https://tinypng.com) to
+accomplish this! **Read on!**
 
 ## Creating an iMessage Sticker Pack Application
 
@@ -29,26 +30,28 @@ Name your project and choose a location to save it.
 
 ## Adding an animated PNG to your Sticker Pack
 
-Your project is empty after creation. If you already have an animated PNG (APNG), you
-can drag and drop it to the sticker pack under *Stickers.xcstickers* > *Sticker
-Pack*.
+Your project is empty after creation. If you already have an animated PNG
+(APNG), you can drag and drop it to the sticker pack under
+*Stickers.xcstickers* > *Sticker Pack*.
 
 ![Empty project](/Screenshots/project-empty.png?raw=true "Empty project")
 
 ![Drag and drop sticker](/Screenshots/project-panda.png?raw=true "Drag and drop sticker")
 
 For optimal performance, Apple has added a hard **file size limit of 500KB**
-for stickers. Xcode will warn you when you attempt to add a file that is larger.
+for stickers. Xcode will warn you when you attempt to add a file that is
+larger.
 
 ![Error when over 500KB](/Screenshots/project-too-large.png?raw=true "Error when over 500KB")
 
 Making sure your stickers are below 500KB can be especially challenging for
-animated stickers! Luckily you can use [TinyPNG](https://tinypng.com) to compress your stickers.
+animated stickers! Luckily you can use [TinyPNG](https://tinypng.com) to
+compress your stickers.
 
-## Compressing animated PNGs with TinyPNG
+## Compressing animated PNGs
 
 You can compress your images in order to reduce the file size. With the
-TinyPNG website you can [compress APNG for free](https://tinypng.com).
+TinyPNG website you can [compress APNG files](https://tinypng.com) for free.
 This allows you squeeze every last byte out of your images and to create the
 best possible stickers!
 
@@ -56,12 +59,14 @@ best possible stickers!
 
 ## Compare before & after
 
-[TinyPNG](https://tinypng.com) uses advanced techniques to compress images. The differences is barely
-noticeable. Yet this image of a waving panda is compressed from 1.5MB to 492 KB.
-You can see there is barely a visible difference.
+The compression uses advanced techniques to compress images. The difference is
+hardly noticeable but the filesize savings after compression are quite
+spectacular. The APNG image of the waving panda is compressed from 1.5 MB to
+492 KB. You can see there is barely a visible difference.
 
-**Note that animated PNGs are only displayed in Firefox or Safari. In other
-browsers you only see the first frame.**
+**Note that animated PNGs are only displayed in Firefox or Safari. In Google
+Chrome, Opera, Microsoft Edge and other browsers you only see the first
+frame.**
 
 Original APNG – 1.5MB | Optimised APNG – 492KB
 ----------------------------- | ------------------------------
@@ -69,6 +74,7 @@ Original APNG – 1.5MB | Optimised APNG – 492KB
 
 ## How to reduce file size further?
 
-If the [TinyPNG](https://tinypng.com) service is not able to compress your animated PNG below 500KB,
-you might have to take other steps to reduce the file size. You may have to
-change your image so that the dimensions are smaller, or use fewer frames.
+If [TinyPNG](https://tinypng.com) is not able to compress your animated PNG
+below 500KB, you might have to take other steps to reduce the file size. You
+may have to change your image so that the dimensions are smaller, or use fewer
+frames.
