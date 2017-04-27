@@ -70,7 +70,7 @@ frame.**
 
 Original APNG – 1.5MB | Optimised APNG – 492KB
 ----------------------------- | ------------------------------
-![Original](/Source/panda-original.png?raw=true "Original") | ![Compressed](/StickerPackExtension/Stickers.xcstickers/Sticker Pack.stickerpack/panda.sticker/panda.png?raw=true "Compressed")
+![Original](/Source/panda-original.png?raw=true "Original") | ![Compressed](/StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/panda.sticker/panda.png?raw=true "Compressed")
 
 ## How to reduce file size further?
 
