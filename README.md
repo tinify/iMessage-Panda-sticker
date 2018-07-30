@@ -64,8 +64,7 @@ hardly noticeable but the filesize savings after compression are quite
 spectacular. The APNG image of the waving panda is compressed from 1.5 MB to
 492 KB. You can see there is barely a visible difference.
 
-**Note that animated PNGs are only displayed in Firefox or Safari. In Google
-Chrome, Opera, Microsoft Edge and other browsers you only see the first
+**Note that animated PNGs are displayed in Firefox, Safari, Google Chrome, and Opera. In Microsoft Edge and other browsers you only see the first
 frame.**
 
 Original APNG – 1.5MB | Optimised APNG – 492KB
